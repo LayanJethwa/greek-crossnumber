@@ -1,0 +1,29 @@
+square number (16) 1 >
+    'τριακοντα και ἑξ' X
+
+prime number (21) 4 v
+    'ἑβδομηκοντα και ἐννεα', X
+
+cube number (22) 2 >
+    'πεντακοσιοι και δωδεκα' X
+
+fibonacci number (14) 4 >
+    'τρεις και δεκα', X
+
+perfect number (15) 3 v
+    'εἰκοσι και ὀκτω' X
+
+palindromic prime (29) 3 >
+    'ἑκατον και ὀγδοηκοντα και εἱς', X
+
+factorial (19) 2 v
+    'εἰκοσι και τεσσαρες' X
+
+semiprime (29) 1 v
+    'ἑκατον και ἑκηκοντα και ἐννεα', X
+
+triangular number (18) 6 >
+    'ἐνενηκοντα και εἱς', X
+
+power of four (9) 5 >
+    ἑκκαιδεκα' X
