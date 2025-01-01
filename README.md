@@ -17,5 +17,5 @@ Click on the image on the website to toggle the answers!
 
 ## Crossword
 
-![blank grid](https://github.com/LayanJethwa/greek-crossnumber/blob/main/blank.png)
+![blank grid](https://github.com/LayanJethwa/greek-crossnumber/blob/main/blank.png)  
 ![clues](https://github.com/LayanJethwa/greek-crossnumber/blob/main/clues.png)
